@@ -44,6 +44,7 @@ text-decoration: none;
  }
 
  footer{
+ 	margin-top: 20px;
  	padding: 40px 20px;
  	background-color: #a3a8a4;
  }
@@ -52,10 +53,6 @@ text-decoration: none;
  }
  footer ul li{
  	display: inline-block;
- 	margin: 0 5px;
+ 	margin: 0px;
  }
-/*<header>
-			<img src="img/profile.jpg">
-			<h1>BMO</h1>
-		</header>*/
 
