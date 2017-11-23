@@ -36,8 +36,8 @@ p.caption{
 ul{
 	list-style: none;
 	padding: 0;
-	margin: 0;
-
+	margin: 0;}
+ol{list-style: none;
 }
 a{ color: #94e0a5;
 text-decoration: none;
